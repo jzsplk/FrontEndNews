@@ -1,0 +1,46 @@
+
+/* Front-end News Style sheet
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in
+ *    IE on Windows Phone and in iOS.
+ *  White                  : #fff
+ *  Indigo                 : #3f51b5
+ *  Indigo(dark)           : #303f9f
+ *  Light blue             : #c5cae9
+ *  Pink                   : #ff4081
+ *  Gray (dark)            : #212121
+ *  Gray (medium)          : #727272
+ *  Gray (light)           : #b6b6b6
+ *  Header Background      : #4054B2
+ */
+
+
+ /* ==========================================================================
+ *Base
+ ============================================================================*/
+body {
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+p {
+
+}
+
+a {
+
+}
